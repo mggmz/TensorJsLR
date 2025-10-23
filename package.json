@@ -1,0 +1,23 @@
+{
+  "name": "tensorjslr",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mggmz/TensorJsLR#readme",
+  "bugs": {
+    "url": "https://github.com/mggmz/TensorJsLR/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mggmz/TensorJsLR.git"
+  },
+  "license": "ISC",
+  "author": "Marco",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vanilla-framework": "^4.35.0"
+  }
+}
